@@ -1,0 +1,16 @@
+p{
+  font-family: roboto,arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+div{
+  font-family: roboto,arial;
+}
+body{
+  background-color: rgb(49, 49, 61);
+  margin: 0px;
+  padding-top: 56px;
+  padding-left: 72px;
+  padding-right: 25px;
+  height: 1000px;
+}
